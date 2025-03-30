@@ -1,4 +1,4 @@
-This project focuses on constructing a dynamic portfolio of corporate bonds. The strategy is based on two key heuristics combined with systematic hyperparameter optimization and portfolio construction using the vectorbt library.
+This project was completed as part of the **School of Quants** Python course. It focuses on constructing a dynamic portfolio of corporate bonds. The strategy is based on two key heuristics combined with systematic hyperparameter optimization and portfolio construction using the vectorbt library.
 
 ## Heuristics for Weight Adjustment
 
